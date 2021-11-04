@@ -1,0 +1,35 @@
+body{
+   background-color: rgba(0, 0, 0, 0.473);
+   color: rgb(17, 17, 94) ;
+   font-family: fantasy;
+   font-weight: lighter;
+   
+}
+
+.parent{
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    margin-top: 4%;
+}
+.text-box{
+    background-color: rgba(31, 21, 21, 0.384);
+    color: rgb(206, 185, 185);
+    
+}
+.btn {
+    transition-duration: 0.4s;
+    background-color: rgba(0, 0, 0, 0.349);
+    padding: 1%;
+    border-radius: 10px;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+  }
+  
+  .btn:hover {
+    background-color: #4cb650; 
+    color: white;
+    padding: 1.5%;
+    padding-left: 3.5%;
+    padding-right: 3.5%;
+  }  
